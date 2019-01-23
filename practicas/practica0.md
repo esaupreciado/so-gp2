@@ -20,3 +20,7 @@ Bajo esta practica, logré aprender:
 
 Aprendí también la definición de un sistema operativo y cómo se comunica a través del Kernel con el hardware de la computadora. 
 Además, aprendí cómo se compone el Kernel, como una librería especial llena de métodos para que el sistema operativo se pueda comunicar correctamente. 
+
+
+https://github.com/esaupreciado/so-gp2/commit/9140ffa35bf85e3bb61f037c67dfb5a277135b16
+
