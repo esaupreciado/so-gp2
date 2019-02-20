@@ -17,3 +17,5 @@ Gcc
 
 ## URL del commit
 
+## ¿Cómo se relaciona con los conceptos anteriores?
+
