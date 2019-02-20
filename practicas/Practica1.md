@@ -18,7 +18,9 @@ Crear dos programas que utilicen las llamadas previas.
 
 ## ¿Qué Aprendí?
 
+En esta practica se aprendieron los fundamentos de cómo hacer llamadas directamente al hardware, a través de las interrupciones. Así, configuramos un pequeño programa que se comunica con el ACPI de nuestra máquina virtual dandole la instrucción de apagarse o reiniciarse mandando a llamar el comando "apagar" o "reiniciar" respectivamente.
+
 ## URL del commit.
 
-
+https://github.com/esaupreciado/so-gp2/commit/f00ce6dfe6cff2d78c2b0f6aff6fea68457d6649
 
