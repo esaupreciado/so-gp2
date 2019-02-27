@@ -33,8 +33,10 @@ git
   * Es el único proceso que crea el SO
   
   * ¿Qué Aprendí?
-  
+  La manera en la que los programas son ejecutados, y como el Stack utiliza sus celdas de memoria para almacenar direcciones y datos. 
+  Además, la importancia de la ejecución de init, el cual es un programa escrito en el código del so para correr el resto de los procesos.
   
   * URL del commit.
+  https://github.com/esaupreciado/so-gp2/commit/f1fc1b94045f1773c8b3bdfb6746d77236f49055
   
   
