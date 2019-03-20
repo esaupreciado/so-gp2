@@ -23,6 +23,7 @@ gcc
 
 
 # URL del commit:
+https://github.com/esaupreciado/so-gp2/commit/d6f1c2422b91510d871f2b3edd32fc6ce2671d93
 
 # ¿Cómo se relaciona con los conceptos anteriores?
   Llamadas a sistema, procesos.
