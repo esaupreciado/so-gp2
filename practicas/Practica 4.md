@@ -20,6 +20,14 @@ gcc
  
  
 # ¿Qué aprendí?
+El planificador de procesos es la parte del sistema operativo que se encarga de seleccionar a qué
+proceso se le asigna el recurso procesador y durante cuánto tiempo. 
+
+Sus principales funciones son:
+ - Llevar el control del estado de cada proceso
+ - Decidir qué proceso usará el procesador y durante cuanto tiempo
+ - Asignar el proceso al procesador
+ - Retirar el proceso del procesador, salvando el contexto de la ejecucción.
 
 
 # URL del commit:
@@ -27,5 +35,6 @@ https://github.com/esaupreciado/so-gp2/commit/d6f1c2422b91510d871f2b3edd32fc6ce2
 
 # ¿Cómo se relaciona con los conceptos anteriores?
   Llamadas a sistema, procesos.
+  
   
 
