@@ -32,6 +32,11 @@ git
   
   
 # URL DEL COMMIT
+* Threads
+   * https://github.com/esaupreciado/so-gp2/commit/e2fff8d0ef52183d9aceaf4a98d6159c2bd39cae
+   
+* Filosofos
+   * https://github.com/esaupreciado/so-gp2/commit/57899b9e1334280da53be8272fef01cc0fbd0c0c
 
 
 # ¿QUÉ APRENDÍ?
