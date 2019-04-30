@@ -40,3 +40,4 @@ git
 
 
 # ¿QUÉ APRENDÍ?
+Aprendí como funcionan los hilos, los detalles de los locks y sus funciones. Además, de mecanismos de sincronización y los posibles problemas que pueden surgir cuando estos fallan. Pusimos a prueba estos conceptos en esta practica para que quedaran mucho más claros. 
