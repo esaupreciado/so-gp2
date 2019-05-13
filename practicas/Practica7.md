@@ -14,3 +14,7 @@ git
  * Directorios
   * Es un tipo especial de archivo que contiene el nombre de otros archivos y sus referencias. 
   
+  
+  # Liga de Commit:
+  https://github.com/esaupreciado/so-gp2/commit/71cd28249813181b70536dd9c779b836e199ad70
+  
